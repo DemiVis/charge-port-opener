@@ -4,7 +4,7 @@ weak attempt at making a little thing that I can press that will open the charge
 ## References used so far:
 Great public work from: https://github.com/akrutsinger/tesla-charge-port-signal?tab=readme-ov-file
 
-Starting with CircuitPython and adafruit pre-assembled thing cause I'm lazy:
+Starting with CircuitPython (8.2.9) and AdaFruit pre-assembled thing cause I'm lazy:
 https://learn.adafruit.com/adafruit-feather-m0-radio-with-rfm69-packet-radio/circuitpython-for-rfm69
 
 ## hardware setup so far:
