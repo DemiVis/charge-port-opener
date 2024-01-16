@@ -1,0 +1,3 @@
+Adafruit CircuitPython 8.2.9 on 2023-12-06; Adafruit Feather M0 RFM69 with samd21g18
+Board ID:feather_m0_rfm69
+UID:172BA67B5352305020312E4C131510FF
